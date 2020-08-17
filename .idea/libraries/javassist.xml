@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="javassist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../CB/JDBC &amp; Hibernate Student/004_JPA_API/004_Samples/hibernate/javassist.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CB/JDBC &amp; Hibernate Student/004_JPA_API/004_Samples/mysql-connector-java-5.1.5-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CB/JDBC &amp; Hibernate Student/004_JPA_API/004_Samples/hibernate-jpa-2.1-api-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CB/JDBC &amp; Hibernate Student/004_JPA_API/004_Samples/hibernate/log4j-1.2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CB/JDBC &amp; Hibernate Student/004_JPA_API/004_Samples/hibernate/jta.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CB/JDBC &amp; Hibernate Student/004_JPA_API/004_Samples/hibernate/jboss-archive-browsing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CB/JDBC &amp; Hibernate Student/004_JPA_API/004_Samples/hibernate/antlr-2.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CB/JDBC &amp; Hibernate Student/004_JPA_API/004_Samples/hibernate/c3p0-0.9.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CB/JDBC &amp; Hibernate Student/004_JPA_API/004_Samples/hibernate/cglib-nodep-2.1_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CB/JDBC &amp; Hibernate Student/004_JPA_API/004_Samples/hibernate/commons-collections-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CB/JDBC &amp; Hibernate Student/004_JPA_API/004_Samples/hibernate/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CB/JDBC &amp; Hibernate Student/004_JPA_API/004_Samples/hibernate/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CB/JDBC &amp; Hibernate Student/004_JPA_API/004_Samples/hibernate/ejb3-persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CB/JDBC &amp; Hibernate Student/004_JPA_API/004_Samples/hibernate/hibernate-annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CB/JDBC &amp; Hibernate Student/004_JPA_API/004_Samples/hibernate/hibernate-commons-annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CB/JDBC &amp; Hibernate Student/004_JPA_API/004_Samples/hibernate/hibernate-entitymanager.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CB/JDBC &amp; Hibernate Student/004_JPA_API/004_Samples/hibernate/hibernate-validator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../CB/JDBC &amp; Hibernate Student/004_JPA_API/004_Samples/hibernate/hibernate3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
