@@ -1,4 +1,4 @@
-package essential.interfaces;
+package essential.objects.interfaces;
 
 import java.awt.*;
 

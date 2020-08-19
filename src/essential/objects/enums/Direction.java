@@ -1,4 +1,4 @@
-package essential.pojo;
+package essential.objects.enums;
 
 /**
  * Created by Asus on 21.09.2019.
